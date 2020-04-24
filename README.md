@@ -1,6 +1,6 @@
 # Digit_Recognition_Model
-<h4> CCN (3 * 3) --> Relu --> CCN (3 * 3) --> Relu --> MaxPool(2X) (high-dimension) </h3>
-<h4> CCN (3 * 3) --> Relu --> CCN (3 * 3) --> Relu --> MaxPool(2X) (low-dimension) </h3>
+<h4> CNN (3 * 3) --> Relu --> CNN (3 * 3) --> Relu --> MaxPool(2X) (high-dimension) </h3>
+<h4> CNN (3 * 3) --> Relu --> CNN (3 * 3) --> Relu --> MaxPool(2X) (low-dimension) </h3>
 <h4> Fully Connected layer --> Fully Connected layer </h3>
 <h4> Softmax </h3>
 </br>
